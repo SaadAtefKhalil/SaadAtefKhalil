@@ -163,21 +163,22 @@ Automation Projects =
 
 <details>
 <summary><b>📶 Wireless</b></summary>
-
-**WLCs:** Cisco 5520, 3520, 5500, 3500, C9800
-
-**Access Points:** Cisco AP-1852, AP-9115x, AP-2600
+  
+| Brand | Models |
+|-------|--------|
+| **WLCs** | Cisco 5520, 3520, 5500, 3500, C9800 |
+| **Access Points** | Cisco AP-1852, AP-9115x, AP-2600 |
 
 </details>
 
 <details>
 <summary><b>🔌 DSL & Access Equipment</b></summary>
 
-**Modems:** Aethra EFM (AS2451, AS2251) · Hatters EFM · Zyxel (792, 791) · Billion
-
-**DSLAMs:** Huawei 5100/5600 · Alcatel ASAM / ISAM
-
-**MSAN Cabinets:** Huawei 5600 · Alcatel · ZTE
+| Brand | Models |
+|-------|--------|
+| **Modems** | Aethra EFM (AS2451, AS2251) · Hatters EFM · Zyxel (792, 791) · Billion |
+| **DSLAMs** | Huawei 5100/5600 · Alcatel ASAM / ISAM |
+| **MSAN Cabinets** | Huawei 5600 · Alcatel · ZTE |
 
 </details>
 
