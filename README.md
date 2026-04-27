@@ -188,7 +188,7 @@ Automation Projects =
 
 | 📅 Date | 🎯 Recognition |
 |---------|---------------|
-| 🥇 Feb 2026 | Dedication and professionalism have been clearly recognized and played a key role in achieving customer satisfaction |
+| 🥇 Feb 2026 | Dedication and professionalism . Customer Success |
 | 🥇 Jul 2025 | Customer Success · Value Creation · Opportunities over problems |
 | 🥈 Apr 2025 | Team Spirit · Opportunities over problems |
 | 🥉 Oct 2024 | Customer Success · Value Creation · Team Spirit |
