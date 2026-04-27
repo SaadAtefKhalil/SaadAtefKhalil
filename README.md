@@ -191,7 +191,7 @@ Faculty of Science, Menoufia University, Egypt · `2011 – 2015`
 
 <div align="center">
 
-*📞 +20 1010776651 · 📧 SaadAtefKhalil@Gmail.com · 📍 Cairo, Egypt*
+📧 SaadAtefKhalil@Gmail.com · 📍 Cairo, Egypt*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saadkhalil&color=blue&style=flat-square)
 
