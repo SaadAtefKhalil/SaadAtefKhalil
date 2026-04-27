@@ -53,6 +53,19 @@ Vendors    : Cisco · Juniper · Fortinet · Viptela
 
 ---
 
+## 🏅 Certifications
+
+| Status | Certification | Issuer |
+|--------|--------------|--------|
+| ✅ | **FCP Administrator** – FortiGate 7.4 Administrator | Fortinet |
+| ✅ | **FCA Cybersecurity** – Certified Associate | Fortinet |
+| ✅ | **FCF Cybersecurity** – Certified Fundamentals | Fortinet |
+| 📘 | **ENCOR** – Cisco Enterprise Network Core Technologies | Cisco |
+| 📘 | **ENWLSI** – Cisco Enterprise Wireless Networks | Cisco |
+| 📘 | **CCNA** – Cisco Certified Network Associate | Cisco |
+
+---
+
 ## 🛠️ Technical Skills
 
 <table>
@@ -154,21 +167,6 @@ automation = {
 **MSAN Cabinets:** Huawei 5600 · Alcatel · ZTE
 
 </details>
-
----
-
-## 🏅 Certifications
-
-| Status | Certification | Issuer |
-|--------|--------------|--------|
-| ✅ | **FCP Administrator** – FortiGate 7.4 Administrator | Fortinet |
-| ✅ | **FCA Cybersecurity** – Certified Associate | Fortinet |
-| ✅ | **FCF Cybersecurity** – Certified Fundamentals | Fortinet |
-| 📘 | **ENCOR** – Cisco Enterprise Network Core Technologies | Cisco |
-| 📘 | **ENWLSI** – Cisco Enterprise Wireless Networks | Cisco |
-| 📘 | **CCNA** – Cisco Certified Network Associate | Cisco |
-
----
 
 ## 🏆 Awards — *Change Maker* @ Orange Business
 
