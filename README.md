@@ -184,7 +184,7 @@ Automation Projects =
 
 ## 🏆 Awards — *Change Maker* @ Orange Business
 
-> Recognized **5 times** across 3 years for outstanding contributions
+> Recognized **6 times** across 5 years for outstanding contributions
 
 | 📅 Date | 🎯 Recognition |
 |---------|---------------|
