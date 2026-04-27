@@ -37,20 +37,32 @@ Vendors    : Cisco · Juniper · Fortinet · Viptela
 - Cascade new technology knowledge across the team
 
 **`Oct 2019 – Nov 2024`** &nbsp; **Technical Network Engineer**
-- Led implementations, modifications, and migrations for complex enterprise solutions with "right first time" delivery
-- Managed full lifecycle migrations from legacy WAN to SD-WAN
-- Deployed wireless infrastructure (APs + WLCs) and end-to-end DC solutions
-- Provided **Tier 4** support for critical incidents — no escalation path above
+- Lead the implementation, modifications, and migrations for both standard and customized customer solutions, ensuring on-time and "right first time" delivery to maximize customer satisfaction. 
+- Validate detailed technical designs of complex enterprise networks, assessing feasibility and ensuring timely, error-free implementation to enhance service quality and customer satisfaction 
+- Prepare vanilla and final configurations for each device, ensuring readiness for staging and migration. 
+- Develop migration plans to minimize downtime and ensure smooth transitions for customers. 
+- Manage the migration of legacy WAN systems to new SD-WAN solution. 
+- Implement reliable wireless networks by installing new APs and WLCs as needed. 
+- Deliver end-to-end complex network solutions for large sites and data centers. 
+- Perform software refreshes for all network devices, addressing vulnerabilities in older software versions. 
+- Execute updates remotely, eliminating the need for on-site field engineers. 
+- Replace end-of-sale devices with newer models to maintain optimal network performance and security. 
+- Apply requested changes to existing network infrastructures, ensuring seamless customer requests. 
+- Provide Tier 4 technical support for incident and problem management, stepping in for 
+- critical operational issues and ensuring rapid resolution. 
 
 ---
 
 ### 🔵 TE Data — Cairo, Egypt
 
 **`Mar 2017 – Oct 2019`** &nbsp; **Enterprise Solution Planning & Provisioning Engineer**
-- Implemented customer VPN solutions over MPLS (managed WAN, LAN/WLAN)
-- Configured CE/PE routers and CPE for Fiber, Local Loop, and WiMax solutions
-- Verified resource availability aligned with pre-sales solutions
-
+- Implement customer VPN solutions over TE data MPLS including managed WAN.
+- managed LAN/WLAN and provide end-to-end testing for the implemented services. 
+- Configure Customer Edge (CE) routers according to customer solutions (Fiber, Local Loop, and WiMax) with basic configurations for remote management.
+- Configure Customer Premises Equipment (CPE) such as modems.
+- Configure Provider Edge (PE) devices with the necessary configurations to provide reachability for new sites to customer HQ. 
+- Implement Layer 2 (L2) reachability on the path from the PE to customer hardware, such as VLANs over switches and PVCs for data and management over DSLAMs and MSAN cabinets 
+- Verify that all required resources for new customer solutions, such as bandwidth, switch ports, DSLAMs, and MSANs, are available and aligned with the presales solution. 
 ---
 
 ## 🏅 Certifications
@@ -106,10 +118,11 @@ Vendors    : Cisco · Juniper · Fortinet · Viptela
 ### 🤖 What I Automate
 
 ```python
-automation = {
-    "credential_management" : "Secure password storage scripts",
-    "config_generation"     : "Jinja2 templates for device configs",
-    "status_collection"     : "Connect, poll, and parse device output at scale",
+automation =
+{
+    "Credential Management"    : "Secure password storage script",
+    "Configuration Generation" : "Jinja2 templates for device configs",
+    "Status Collection"        : "Connect, poll, and parse device output at scale",
 }
 ```
 
