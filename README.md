@@ -118,11 +118,11 @@ Vendors    : Cisco · Juniper · Fortinet · Viptela
 ### 🤖 What I Automate
 
 ```python
-automation =
+Automation Projects =
 {
     "Credential Management"    : "Secure password storage script",
     "Configuration Generation" : "Jinja2 templates for device configs",
-    "Status Collection"        : "Connect, poll, and parse device output at scale",
+    "Checks Collection"        : "Connect, poll, and parse device output at scale",
 }
 ```
 
