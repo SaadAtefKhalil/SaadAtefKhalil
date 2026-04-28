@@ -72,7 +72,7 @@ Vendors    : Cisco · Juniper · Fortinet · Viptela
 | ✅ | **FCP Administrator** – FortiGate 7.4 Administrator | Fortinet |
 | ✅ | **FCA Cybersecurity** – Certified Associate | Fortinet |
 | ✅ | **FCF Cybersecurity** – Certified Fundamentals | Fortinet |
-| ✅ | **ENCOR** – Cisco Enterprise Network Core Technologies | Cisco |
+| ⏳ | **ENCOR** – Cisco Enterprise Network Core Technologies | Cisco |
 | ✅ | **ENWLSI** – Cisco Enterprise Wireless Networks | Cisco |
 | ✅ | **CCNA** – Cisco Certified Network Associate | Cisco |
 
