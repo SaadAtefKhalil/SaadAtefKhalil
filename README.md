@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=200&section=header&text=Saad%20Atef%20Khalil&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Network%20Infrastructure%20Engineer%20@%20Orange%20Business%20Service&descAlignY=58&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Saad%20Atef%20Khalil&textBg=false&section=header&desc=Network%20Engineer%20@%20Orange%20Business%20Services&descSize=30&descAlignY=70&descAlign=50&reversal=false&fontAlign=50&fontAlignY=50" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadkhalil2015)
 [![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saad-atef-khalil)
@@ -16,8 +17,6 @@
 ```yaml
 Name       : Saad Atef Khalil
 Role       : Senior Network Infrastructure Engineer
-Experience : 9+ years
-Location   : Cairo, Egypt
 Focus      : SD-WAN · MPLS · BGP · Network Automation
 Tools      : Python · Jinja2 · Bash · Linux
 Vendors    : Cisco · Juniper · Fortinet · Viptela
